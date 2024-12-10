@@ -1,6 +1,10 @@
 # EduCSW
 This git aims to propose a pipeline for generating synthetic code-mixed datasets
 
+## Dataset Used in this Study: 
+*Domain-Specific Dataset -- Computer Science Education Corpus* -- [2imi9/llama2_7B_data_10G](https://huggingface.co/datasets/2imi9/llama2_7B_data_10G)
+*Mandarin-English Code-Mixed Dataset -- Transcripts* -- [CAiRE/ASCEND](https://huggingface.co/datasets/CAiRE/ASCEND) and the translated version is here [RuishiCh0314/ASCEND-mixed-to-chinese-translation](https://huggingface.co/datasets/RuishiCh0314/ASCEND-mixed-to-chinese-translation)
+
 ## Preparation Stage: 
 *EduCSW_Data_Preparation_1.ipynb* -- this notebook documents parallel corpus creation, alignment texts processing, and feature extraction using BERT-NER.
 
