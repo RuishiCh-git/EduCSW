@@ -16,6 +16,8 @@ The generated datasets are designed to support downstream tasks such as training
 ## Preparation Stage: 
 *EduCSW_Data_Preparation_1.ipynb* -- (included in this repo) this notebook documents parallel corpus creation, alignment texts processing, and feature extraction using BERT-NER ([dbmdz/bert-large-cased-finetuned-conll03-english](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english])).
 
+*EduCSW_Data_Preparation_2.ipynb* -- (included in this repo) this notebook employed the word aligner awesome-align to create an alignment matrix for the parallel corpus.
+
 *EduCSW_Data_Preparation Pre-trained NMT Model* -- This pre-trained NMT model is stored here: [yl31/opus-mt-zh-en-finetuned-cs-instruction](https://huggingface.co/yl31/opus-mt-zh-en-finetuned-cs-instruction)
 
 ## Code-Mixed Data Generation: 
