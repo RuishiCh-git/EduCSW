@@ -14,7 +14,7 @@ The generated datasets are designed to support downstream tasks such as training
 *Mandarin-English Code-Mixed Dataset -- Transcripts* -- [CAiRE/ASCEND](https://huggingface.co/datasets/CAiRE/ASCEND) and the translated version is here [RuishiCh0314/ASCEND-mixed-to-chinese-translation](https://huggingface.co/datasets/RuishiCh0314/ASCEND-mixed-to-chinese-translation)
 
 ## Preparation Stage: 
-*EduCSW_Data_Preparation_1.ipynb* -- this notebook documents parallel corpus creation, alignment texts processing, and feature extraction using BERT-NER ((dbmdz/bert-large-cased-finetuned-conll03-english)[https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english]).
+*EduCSW_Data_Preparation_1.ipynb* -- this notebook documents parallel corpus creation, alignment texts processing, and feature extraction using BERT-NER ([dbmdz/bert-large-cased-finetuned-conll03-english](https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english])).
 
 *EduCSW_Data_Preparation_2 Pre-trained NMT Model* -- This pre-trained NMT model is stored here: [yl31/opus-mt-zh-en-finetuned-cs-instruction](https://huggingface.co/yl31/opus-mt-zh-en-finetuned-cs-instruction)
 
