@@ -1,4 +1,4 @@
-# EduCSW
+# EduCSW - Building a Mandarin-English Code-Switched Generation Pipeline for Computer Science Learning
 This repository presents EduCSW, a novel pipeline for generating synthetic code-mixed datasets, with a specific implementation focusing on Mandarin-English code-switching in computer science education. 
 
 The project offers:
